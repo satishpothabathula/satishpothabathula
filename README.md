@@ -5,7 +5,8 @@
   Update instructions are left as HTML comments throughout.
   ============================================================
 -->
-<img width="6912" height="3456" alt="Sparse Neon Matrix Profile Banner" src="https://github.com/user-attachments/assets/7ca799e5-6e7a-468f-a238-d1084a06dd9e" />
+<img width="6912" height="1957" alt="banner3" src="https://github.com/user-attachments/assets/d132a1d2-331b-4326-a2d4-607d4a77546c" />
+
 
 <div align="center">
 
